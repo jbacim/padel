@@ -8,7 +8,7 @@ A padel doubles game in the browser. You and your partner Magnus play the rivals
 
 | | |
 |---|---|
-| **Move** | Drag anywhere on the screen. Your player follows your thumb (arrow keys on desktop). |
+| **Move** | Drag anywhere on the screen. Your player follows your thumb (arrow keys or WASD on desktop). |
 | **Hit** | The racket swings by itself. Hit the ball at the edge of your reach ring to angle the shot. |
 | **Smash** | Get under a lob before it bounces. |
 | **Glass** | The ball can come off the walls after it bounces. Keep chasing it. |
